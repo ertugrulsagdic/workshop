@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_template/view/test/service/i_test_service.dart';
-import 'package:flutter_template/view/test/service/test_service.dart';
+import 'package:workshop/view/test/service/i_test_service.dart';
+import 'package:workshop/view/test/service/test_service.dart';
 import '../../../core/base/viewmodel/base_view_model.dart';
 import 'package:mobx/mobx.dart';
 part 'test_view_model.g.dart';

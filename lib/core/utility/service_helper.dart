@@ -1,5 +1,5 @@
-import 'package:flutter_template/core/base/model/file_model.dart';
-import 'package:flutter_template/core/constants/network/network_route_enum.dart';
+import 'package:workshop/core/base/model/file_model.dart';
+import 'package:workshop/core/constants/network/network_route_enum.dart';
 import 'package:vexana/vexana.dart';
 
 import '../base/model/base_response_model.dart';
